@@ -8,4 +8,4 @@ I have been a professional software developer since 2013, with a passion for cod
 
 In addition to my own projects, some of which you can find below, I love contributing to the open-source ecosystem whenever I can.
 
-My current focus is on [Maintainerr](https://github.com/jorenn92/Maintainerr), a tool designed to simplify media management on your server by automating the handling of unwatched and requested media.
+My current focus is on [Maintainerr](https://github.com/Maintainerr/Maintainerr), a tool designed to simplify media management on your server by automating the handling of unwatched and requested media.
